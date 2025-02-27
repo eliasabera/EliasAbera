@@ -23,12 +23,24 @@
 
 ### 📈 GitHub Stats:
 ![Elias' GitHub stats](https://github-readme-stats.vercel.app/api?username=EliasAbera&show_icons=true&theme=radical)
+
 ### 🌍 Connect with Me:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/elias-abera-656218224/)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github)](https://github.com/EliasAbera)
-[![Telegram](https://img.shields.io/badge/Telegram-Message-blue?style=for-the-badge&logo=telegram)](https://t.me/https://t.me/elaabCode)
-[![Twitter](https://img.shields.io/badge/Twitter-Follow-blue?style=for-the-badge&logo=twitter)](https://twitter.com/yourusername)
+<p align="left">
+  <a href="https://www.linkedin.com/in/elias-abera-656218224/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" height="40" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/EliasAbera" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=github&logoColor=white" height="40" alt="GitHub"/>
+  </a>
+  <a href="https://t.me/elaabCode" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-26A5E4.svg?style=for-the-badge&logo=telegram&logoColor=white" height="40" alt="Telegram"/>
+  </a>
+  <a href="https://twitter.com/yourusername" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" height="40" alt="Twitter"/>
+  </a>
+</p>
+
 
 
 
