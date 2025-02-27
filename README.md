@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi there, I'm Elias Abera 👋
 
-<!--
-**eliasabera/EliasAbera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Software Engineering Student | 🌍 Web Developer
 
-Here are some ideas to get you started:
+### 🚀 About Me:
+- 🔭 I’m currently working on [Portfolio Website Builder](#)
+- 🌱 I’m learning React and AI-based projects
+- 📫 How to reach me: [Email](eliasabera584@gmail.com) | [Telegram](@elaabCode)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 Tech Stack:
+HTML | CSS | JavaScript | React | Python | Git
+
+### 📈 GitHub Stats:
+![Elias' GitHub stats](https://github-readme-stats.vercel.app/api?username=EliasAbera&show_icons=true&theme=radical)
+
