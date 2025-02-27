@@ -19,11 +19,6 @@
   <a href="https://git-scm.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50" alt="Git"/></a>
 </p>
 
-
-
-### 📈 GitHub Stats:
-![Elias' GitHub stats](https://github-readme-stats.vercel.app/api?username=EliasAbera&show_icons=true&theme=radical)
-
 ### 🌍 Connect with Me:
 
 <p align="left">
