@@ -41,6 +41,12 @@
   </a>
 </p>
 
+### ⚡ GitHub Stats:
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=EliasAbera&show_icons=true&theme=radical" height="150" />
+  <img src="https://streak-stats.demolab.com?user=EliasAbera&theme=radical" height="150" />
+</p>
+
 
 
 
