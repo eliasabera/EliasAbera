@@ -5,7 +5,7 @@
 ### 🚀 About Me:
 - 🔭 I’m currently working on [Portfolio Website Builder](#)
 - 🌱 I’m learning React and AI-based projects
-- 📫 How to reach me: [Email](eliasabera584@gmail.com) | [Telegram](@elaabCode)
+- 📫 How to reach me: [Email](mailto:eliasabera584@gmail.com) | [Telegram](#elaabCode)
 
 ### 🛠 Tech Stack:
 HTML | CSS | JavaScript | React | Python | Git
