@@ -19,5 +19,13 @@ HTML | CSS | JavaScript | React | Python | Git
 [![Telegram](https://img.shields.io/badge/Telegram-Message-blue?style=for-the-badge&logo=telegram)](https://t.me/https://t.me/elaabCode)
 [![Twitter](https://img.shields.io/badge/Twitter-Follow-blue?style=for-the-badge&logo=twitter)](https://twitter.com/yourusername)
 
+![HTML](https://img.shields.io/badge/HTML-5-orange?style=for-the-badge)
+![CSS](https://img.shields.io/badge/CSS-3-blue?style=for-the-badge)
+![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow?style=for-the-badge)
+![React](https://img.shields.io/badge/React-JS-blue?style=for-the-badge)
+![Python](https://img.shields.io/badge/Python-3.9-blue?style=for-the-badge)
+![Node.js](https://img.shields.io/badge/Node.js-Express-green?style=for-the-badge)
+
+
 
 
